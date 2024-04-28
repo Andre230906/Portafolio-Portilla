@@ -1,0 +1,13 @@
+[{
+        "name": "Nombre del Usuario",
+        "email": "correo@example.com",
+        "subject": "Asunto del Mensaje",
+        "message": "Contenido del Mensaje"
+    },
+    {
+        "name": "Otro Nombre",
+        "email": "otrocorreo@example.com",
+        "subject": "Otro Asunto",
+        "message": "Otro Contenido"
+    }
+]
